@@ -1,0 +1,17 @@
+"switch" 語法
+
+switch(變數){
+    case 條件:
+        執行的事
+        break;
+    case 條件:
+        執行的事
+        break;
+    default:
+        執行的事
+        break;
+}
+
+p.s.
+    記得加"break" 不然程式會繼續跑(除非故意)
+    "default"是預設 前面都沒跳脫迴圈的情況下 "default"內的程式必執行
