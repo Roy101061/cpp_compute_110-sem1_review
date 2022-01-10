@@ -1,0 +1,9 @@
+"else if" 語法
+
+else if(條件){
+    執行的事
+}
+
+p.s.
+    使用"else if"前必須要有"if"
+    如果前面的"if"成立會直接跳過"else if"

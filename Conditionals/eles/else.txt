@@ -1,0 +1,9 @@
+"else" 語法
+
+else{
+    執行的事
+}
+
+p.s.
+    使用"else"前必須要有"if" ( "else if"可有可無 )
+    如果前面的"if"或"else if"成立會直接跳過"else"
