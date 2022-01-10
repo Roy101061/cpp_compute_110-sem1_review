@@ -6,3 +6,5 @@ Include:
   operators
   Conditional
   loops
+
+Recommend to see the .txt file first before the .cpp file.
